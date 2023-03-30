@@ -1,6 +1,6 @@
 package basic;
 
-public class NestedForLoop {
+public class Pattern {
 
 	public static void main(String[] args) {
 		// WAP to print pattern using * (half pyramid)
